@@ -1,0 +1,35 @@
+.header{
+	height: 100px;
+	background-color:red ;
+	border: 5px solid firebrick;
+}
+.container{
+	border: 5px solid black;
+overflow: hidden;
+
+}
+.item{
+	float: left;
+	height: 150px;
+	width: 20%;
+}
+.aqua{
+	background-color: aqua;
+}
+.lightblue{
+	background-color: lightblue;
+}
+.brown{
+	background-color: brown;
+}
+.tomato{
+	background-color: tomato;
+}
+.purple{
+	background-color: purple;
+}
+.footer{
+	border: 5px solid coral;
+	height: 100px;
+	background-color: blue;
+}
